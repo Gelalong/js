@@ -27,9 +27,9 @@ jobs:
         env:
           WORKING_DIRECTORY: .
           IPA_FILE_NAME: Runner.ipa
-          APPLE_USERNAME: 44793588@qq.com
-          APPLE_PASSWORD: jllz-iszf-nfvn-qorz
-          APPLE_ASC_PROVIDER: TP5553X6PA
+          APPLE_USERNAME: jakf@szdiyibo.com
+          APPLE_PASSWORD: ydbg-ovxn-pwan-lkcu
+          APPLE_ASC_PROVIDER: PUJ8G32W57
 
         run: |
           cd $WORKING_DIRECTORY
